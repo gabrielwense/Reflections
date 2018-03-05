@@ -1,0 +1,12 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+- O diff demonstra as linhas onde os arquivos diferem, auxiliando a ver somente estes pondtos no momento de procurar por um bug inserido na versão mais nova.
+- Este processo pode ser realizado aao subir um nova versão, verificando as alterações e antevendo possíveis bugs no código.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+- Com o controle de arquivo é possível voltar a uma versão estável caso seja inserido um bug em um versão mais nova, voltando as versões até encotnrar em qual versão o bug foi inserido, auxiliando a encontrar o bug inserido.
+
+Porque alguns sistemas pertimem salvar vários arquivos em um commit enquanto outros tratam cada arquivo separadamente?
+- Os sistemas que salvam automaticamente tratam os arquivos separadamente porque a edição de arquivos é feita individualmente.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+- Git log mostra a ordem dos commits com as mensagens de commit e o comando diff compara os arquivos de versões diferentes.
